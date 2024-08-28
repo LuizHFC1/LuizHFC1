@@ -17,7 +17,7 @@
 ### Cursando <br>
 #### Análise e desenvolvimento de sistemas
 <div style="display: inline_block">
-<img alt="Cruzeiro do sul" width="30px" src="https://scontent.fqsc2-1.fna.fbcdn.net/v/t39.30808-1/314597608_897830291622737_1821170886960362948_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=_WbCC6wJLukQ7kNvgFfKkEn&_nc_ht=scontent.fqsc2-1.fna&oh=00_AYB2FiubjpHGMAVI9ekPgZQS1TryzQJIKTG8H6CF0o9dDg&oe=66C7C8F6" <h3 style="display: inline; font-size:1.3em"> Cruzeiro do Sul</h3>
+Cruzeiro do Sul</h3>
 
 ### Estudando
 </div>
